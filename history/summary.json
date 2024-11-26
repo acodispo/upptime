@@ -22,7 +22,7 @@
     "url": "https://int.harvesttomarket.com",
     "icon": "https://harvesttomarket.com/favicon.ico",
     "slug": "htm-int",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 697,
     "timeYear": 697,
     "dailyMinutesDown": {
+      "2024-11-26": 0,
       "2024-11-05": 101
     }
   }
