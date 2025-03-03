@@ -4,10 +4,10 @@
     "url": "https://harvesttomarket.com",
     "icon": "https://harvesttomarket.com/favicon.ico",
     "slug": "harvest-to-market",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.90%",
     "time": 703,
@@ -16,6 +16,7 @@
     "timeMonth": 702,
     "timeYear": 703,
     "dailyMinutesDown": {
+      "2025-03-03": 1,
       "2025-02-18": 141,
       "2025-02-17": 21
     }
@@ -25,7 +26,7 @@
     "url": "https://int.harvesttomarket.com",
     "icon": "https://harvesttomarket.com/favicon.ico",
     "slug": "htm-int",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +38,7 @@
     "timeMonth": 702,
     "timeYear": 718,
     "dailyMinutesDown": {
+      "2025-03-03": 0,
       "2025-02-18": 139,
       "2025-02-17": 19,
       "2024-11-26": 17,
