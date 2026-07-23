@@ -4,18 +4,20 @@
     "url": "https://harvesttomarket.com",
     "icon": "https://harvesttomarket.com/favicon.ico",
     "slug": "harvest-to-market",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 913,
-    "timeDay": 750,
-    "timeWeek": 917,
-    "timeMonth": 856,
-    "timeYear": 938,
-    "dailyMinutesDown": {}
+    "time": 912,
+    "timeDay": 621,
+    "timeWeek": 864,
+    "timeMonth": 845,
+    "timeYear": 937,
+    "dailyMinutesDown": {
+      "2026-07-23": 0
+    }
   },
   {
     "name": "htm-int",
