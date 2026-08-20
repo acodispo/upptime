@@ -4,15 +4,15 @@
     "url": "https://harvesttomarket.com",
     "icon": "https://harvesttomarket.com/favicon.ico",
     "slug": "harvest-to-market",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "98.96%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "99.91%",
-    "time": 929,
-    "timeDay": 767,
-    "timeWeek": 944,
+    "time": 930,
+    "timeDay": 855,
+    "timeWeek": 950,
     "timeMonth": 1008,
     "timeYear": 942,
     "dailyMinutesDown": {
@@ -24,7 +24,7 @@
       "2026-08-16": 25,
       "2026-08-17": 35,
       "2026-08-18": 18,
-      "2026-08-20": 0
+      "2026-08-20": 32
     }
   },
   {
@@ -32,17 +32,17 @@
     "url": "https://int.harvesttomarket.com",
     "icon": "https://harvesttomarket.com/favicon.ico",
     "slug": "htm-int",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.59%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.58%",
     "time": 872,
-    "timeDay": 583,
-    "timeWeek": 654,
-    "timeMonth": 755,
-    "timeYear": 860,
+    "timeDay": 572,
+    "timeWeek": 647,
+    "timeMonth": 751,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2026-04-14": 1406,
       "2026-04-13": 379,
@@ -54,7 +54,7 @@
       "2026-08-16": 25,
       "2026-08-17": 35,
       "2026-08-18": 17,
-      "2026-08-20": 0
+      "2026-08-20": 32
     }
   }
 ]
